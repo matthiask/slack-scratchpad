@@ -1,2 +1,3 @@
-venv
 *.sw?
+node_modules
+venv
